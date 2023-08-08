@@ -1,2 +1,0 @@
-# Расписание для выполнения задачи каждый час с 10 до 18 в будние дни
-0 10-18 * * 1-5 root python Health_Check/Health_check.py >> /var/log/cron.log 2>&1
